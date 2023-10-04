@@ -4,7 +4,6 @@
 ## Course title: 
 260
 
-
 ## Assignment name: 
 Full page layout
 
