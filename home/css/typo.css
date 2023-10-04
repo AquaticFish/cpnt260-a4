@@ -1,0 +1,21 @@
+
+header{
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+}
+
+p{
+  font-family: 'Martian Mono', monospace;
+  color: white;
+  padding: 1rem;
+  line-height: 1.5rem;
+}
+h1 {
+  font-family: 'Koulen', sans-serif;
+  font-size: 250px;
+  color: white;
+  padding: 1rem;
+  line-height: 1rem;
+}
+
