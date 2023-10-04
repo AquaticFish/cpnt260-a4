@@ -1,0 +1,45 @@
+body {
+  display: flex;
+  justify-content: center;
+
+  width: 100vw;
+  height: 100vh;
+
+  background-image: url("../back-img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; 
+
+} 
+
+
+/*nav bar */
+nav ul {
+  font-family: 'Koulen', sans-serif;
+  list-style: none;
+  padding-left: 0;
+  background-color: black;
+  margin: 0;
+  display: flex;
+  justify-content: end;
+  color: black;
+  align-items: center;
+  padding-right: 2rem;
+}
+
+/* nav text*/
+nav a{
+  padding: 1rem;
+  width: min-content;
+  display: block;
+  text-decoration: none;
+  color: white;
+  }
+
+  /* hover*/
+  nav a:hover {
+    background-color: black;
+    color: hsl(0, 93%, 70%);
+    text-decoration: underline;
+  }
+
