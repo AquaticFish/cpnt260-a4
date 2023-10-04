@@ -1,5 +1,4 @@
 # cpnt260-a4
-# cpnt260-a3
 
 ## Course title: 
 260
